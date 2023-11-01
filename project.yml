@@ -1,3 +1,6 @@
+environment:
+  REAL_SPACES_ACCESS: ${REAL_SPACES_ACCESS}
+  REAL_SPACES_KEY: ${REAL_SPACES_KEY}
 packages:
   - name: sample
     actions:
